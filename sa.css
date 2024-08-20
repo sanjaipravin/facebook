@@ -1,0 +1,32 @@
+h1{
+    background-color: blue;
+    color: white;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 30px;
+}
+table{
+    color: rgb(255, 255, 255);
+    margin-top: 100px;
+    font-size: x-large;
+    background-color: ;
+    border: solid;
+    
+}
+*{
+    background-color: rgb(2, 0, 10);
+}
+form{
+    background-color: rgb(0, 0, 0);
+}
+.san{
+    background-color: aqua;
+
+}
+button{
+    background-color: blue;
+    color: white;
+}
+input{
+    color: white;
+}
